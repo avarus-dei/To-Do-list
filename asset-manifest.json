@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/avarus-dei.github.io/static/css/main.46343cf8.chunk.css",
-    "main.js": "/avarus-dei.github.io/static/js/main.89f6a409.chunk.js",
-    "main.js.map": "/avarus-dei.github.io/static/js/main.89f6a409.chunk.js.map",
-    "runtime-main.js": "/avarus-dei.github.io/static/js/runtime-main.286c28f6.js",
-    "runtime-main.js.map": "/avarus-dei.github.io/static/js/runtime-main.286c28f6.js.map",
-    "static/js/2.caedb1f2.chunk.js": "/avarus-dei.github.io/static/js/2.caedb1f2.chunk.js",
-    "static/js/2.caedb1f2.chunk.js.map": "/avarus-dei.github.io/static/js/2.caedb1f2.chunk.js.map",
-    "index.html": "/avarus-dei.github.io/index.html",
-    "static/css/main.46343cf8.chunk.css.map": "/avarus-dei.github.io/static/css/main.46343cf8.chunk.css.map",
-    "static/js/2.caedb1f2.chunk.js.LICENSE.txt": "/avarus-dei.github.io/static/js/2.caedb1f2.chunk.js.LICENSE.txt"
+    "main.css": "/To-Do-list/static/css/main.46343cf8.chunk.css",
+    "main.js": "/To-Do-list/static/js/main.89f6a409.chunk.js",
+    "main.js.map": "/To-Do-list/static/js/main.89f6a409.chunk.js.map",
+    "runtime-main.js": "/To-Do-list/static/js/runtime-main.4f689921.js",
+    "runtime-main.js.map": "/To-Do-list/static/js/runtime-main.4f689921.js.map",
+    "static/js/2.caedb1f2.chunk.js": "/To-Do-list/static/js/2.caedb1f2.chunk.js",
+    "static/js/2.caedb1f2.chunk.js.map": "/To-Do-list/static/js/2.caedb1f2.chunk.js.map",
+    "index.html": "/To-Do-list/index.html",
+    "static/css/main.46343cf8.chunk.css.map": "/To-Do-list/static/css/main.46343cf8.chunk.css.map",
+    "static/js/2.caedb1f2.chunk.js.LICENSE.txt": "/To-Do-list/static/js/2.caedb1f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.286c28f6.js",
+    "static/js/runtime-main.4f689921.js",
     "static/js/2.caedb1f2.chunk.js",
     "static/css/main.46343cf8.chunk.css",
     "static/js/main.89f6a409.chunk.js"
